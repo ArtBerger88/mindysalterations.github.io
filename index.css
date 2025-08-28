@@ -1,9 +1,5 @@
 body {
-<<<<<<< HEAD
     background-color: rgb(0, 45, 0);
-=======
-    background-color: bisque;
->>>>>>> 335fa88b9a4ee9e88b44dd8681681913e123fd12
     /*background-image: url(https://raw.githubusercontent.com/ArtBerger88/MindysRepo/main/background2.webp);
     background-repeat: no-repeat;
     background-position: center center;
@@ -24,15 +20,11 @@ h1, h2 {
     color:white;
     font-size: 60px;
     text-align: center;
-<<<<<<< HEAD
     text-shadow: 2px 2px 2px rgb(0, 255, 38);
 }
 
 h2 {
     padding-top: 50px;
-=======
-    text-shadow: 2px 2px 2px blue;
->>>>>>> 335fa88b9a4ee9e88b44dd8681681913e123fd12
 }
 
 /*.background_div {
@@ -48,11 +40,7 @@ h2 {
     justify-content: center;      
     align-items: center;          
     gap: 50px;                    
-<<<<<<< HEAD
     padding: 70px;
-=======
-    padding: 20px;
->>>>>>> 335fa88b9a4ee9e88b44dd8681681913e123fd12
     flex-wrap: wrap;
 }
 
@@ -84,15 +72,12 @@ h2 {
     border-radius: 90px;
 }
 
-<<<<<<< HEAD
 .product_img:hover {
     transform: scale(1.50);
     border-style: solid;
     border-color: #00FF00;
 }
 
-=======
->>>>>>> 335fa88b9a4ee9e88b44dd8681681913e123fd12
 .dropdown {
     text-align: center;
 }
@@ -108,11 +93,7 @@ h2 {
 }
 
 #purchaseBtn:hover {
-<<<<<<< HEAD
     background-color: pink;
-=======
-    background-color: violet;
->>>>>>> 335fa88b9a4ee9e88b44dd8681681913e123fd12
     border-style: solid;
     border-radius: 10px;
 }
@@ -121,13 +102,6 @@ h2 {
     margin: 5px 0;
 }
 
-<<<<<<< HEAD
-=======
-.active {
-    background-color: pink;
-}    
-
->>>>>>> 335fa88b9a4ee9e88b44dd8681681913e123fd12
 /*.dropdown li:hover {                        Only need for dropdowns
     background-color: pink;
     border-style: solid;
@@ -149,7 +123,6 @@ h2 {
 }
 
 a:hover {
-<<<<<<< HEAD
     color: black
 }
 
@@ -158,15 +131,6 @@ a:hover {
     font-size: 25px;
     color: black;
     animation: colorChange 3s infinite;
-=======
-    color: white;
-}
-
-.sizeNcolor {
-    text-align: center;
-    font-size: 25px;
-    color: black;
->>>>>>> 335fa88b9a4ee9e88b44dd8681681913e123fd12
 }
 
 .background_div2 {
@@ -198,7 +162,6 @@ a:hover {
 .tele:hover, .email:hover, .fb:hover {
     color:blue;
 }
-<<<<<<< HEAD
 
 @keyframes colorChange {
   0% { color: #002D00; }
@@ -207,5 +170,3 @@ a:hover {
   75% { color: #00FF00; }
   100% { color: #002D00; }
 }
-=======
->>>>>>> 335fa88b9a4ee9e88b44dd8681681913e123fd12
