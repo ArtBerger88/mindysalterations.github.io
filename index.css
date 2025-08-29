@@ -65,6 +65,14 @@ h2 {
     text-shadow: 2px 2px 2px white;
 }
 
+.productTitle {
+    color: #00FF00;
+    width: 100%;
+    font-size: 40px;
+    text-align: center;
+    text-shadow:  2px 2px 2px white;
+}
+
 .product_img {
     height: 150px;
     width: 150px;
