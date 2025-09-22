@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(0, 45, 0);
+    background-color: rgb(55, 94, 55);
     /*background-image: url(https://raw.githubusercontent.com/ArtBerger88/MindysRepo/main/background2.webp);
     background-repeat: no-repeat;
     background-position: center center;
@@ -20,11 +20,13 @@ h1, h2 {
     color:white;
     font-size: 60px;
     text-align: center;
-    text-shadow: 2px 2px 2px rgb(0, 255, 38);
+    text-shadow: 2px 2px 2px rgb(0, 198, 30);
 }
 
-h2 {
-    padding-top: 50px;
+.intro_txt {
+    font-size: 25px;
+    color:#000000;
+    text-align:center;
 }
 
 /*.background_div {
@@ -40,7 +42,7 @@ h2 {
     justify-content: center;      
     align-items: center;          
     gap: 50px;                    
-    padding: 70px;
+    padding: 30px;
     flex-wrap: wrap;
 }
 
@@ -66,11 +68,11 @@ h2 {
 }
 
 .productTitle {
-    color: #00FF00;
+    color: rgb(1, 7, 1);
     width: 100%;
     font-size: 40px;
     text-align: center;
-    text-shadow:  2px 2px 2px white;
+    text-shadow:  2px 2px 2px #29a629;
 }
 
 .product_img {
@@ -78,6 +80,14 @@ h2 {
     width: 150px;
     display: inline-block;
     border-radius: 90px;
+}
+
+#test_img2, #test_img3, #test_img1 {
+   transform: rotate(250deg);
+}
+
+#test_img0 {
+    transform: rotate(-15deg);
 }
 
 .product_img:hover {
@@ -173,8 +183,8 @@ a:hover {
 
 @keyframes colorChange {
   0% { color: #002D00; }
-  25% { color: #00FF00; }
+  25% { color: #29a629; }
   50% { color: #002D00; }
-  75% { color: #00FF00; }
+  75% { color: #29a629; }
   100% { color: #002D00; }
 }
